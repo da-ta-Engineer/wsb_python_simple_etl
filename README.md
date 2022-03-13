@@ -5,4 +5,4 @@ Download data from:
 https://softmaz.xyz/wsb/rsc/unique_tracks.zip
 https://softmaz.xyz/wsb/rsc/triplets_sample_20p.zip
 
-Unzip into src/
+Unzip into wsb_python_simple_etl/src/
